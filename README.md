@@ -3,6 +3,18 @@
 Course: Computer Programming 1 | Academic Year: 2026
 Student: Farah Nicole Abdallah | ID: 25-0599
 
+## Project Description
+This project implements an automated Object-Oriented 
+Python data pipeline for analyzing Heart Rate Recovery 
+(HRR) dynamics from real-world wearable running sensor 
+data. The pipeline ingests, cleans, and statistically 
+analyzes 3,577 true recovery events using NumPy-based 
+descriptive statistics, IQR outlier detection, Pearson 
+correlation, and comparative group analysis. The system 
+deploys five automated visualizations including static 
+charts and animated outputs to characterize cardiac 
+recovery behavior across Low HRR and High HRR groups.
+
 ## Dataset
 Running and Heart Rate Data
 https://www.kaggle.com/datasets/mcandocia/running-heart-rate-recovery
